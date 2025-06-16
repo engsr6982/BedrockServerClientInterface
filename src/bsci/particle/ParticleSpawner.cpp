@@ -25,6 +25,7 @@
 #include <mc/world/Minecraft.h>
 #include <mc/world/level/BlockPos.h>
 #include <mc/world/level/dimension/Dimension.h>
+#include <mc/util/MolangOffsetPlaceholder.h>
 
 #include <parallel_hashmap/phmap.h>
 
